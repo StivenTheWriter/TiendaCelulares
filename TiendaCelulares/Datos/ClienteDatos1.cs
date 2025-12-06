@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
 using TiendaCelulares.Modelo;
-
+//Roddy Stiven De Oleo 2025 0959
 namespace TiendaCelulares.Datos
 {
     public class ClienteDatos
